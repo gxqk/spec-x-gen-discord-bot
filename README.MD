@@ -24,7 +24,7 @@
 - [💎 Premium System](#-premium-system)
 - [🔒 Security Features](#-security-features)
 - [📊 Statistics](#-statistics)
-- [🛠️ Development](#️-development)
+- [🆘 Support & Help](#-support--help)
 - [📝 License](#-license)
 
 ---
@@ -200,8 +200,6 @@
 - **⚡ Reduced Cooldown**: 1 minute instead of 7.5 minutes
 - **📱 DM Generation**: Generate accounts via direct messages
 - **🎯 Priority Access**: Access to `/p_gen` command
-- **📦 Exclusive Drops**: Regular premium account drops
-- **🔄 Enhanced Features**: Better account quality and availability
 
 ### 🎟️ **How to Get Premium**
 
@@ -237,48 +235,19 @@ The bot tracks comprehensive statistics including:
 
 ---
 
-## 🛠️ Development
+## 🆘 Support & Help
 
-### 📁 **Project Structure**
+Need help with the bot? Have questions or issues?
 
-```
-├── main.py                 # Bot entry point
-├── utils.py               # Utility functions and classes
-├── config.json            # Bot configuration
-├── requirements.txt       # Python dependencies
-├── commands/
-│   ├── generator/         # Generation commands
-│   │   ├── generate.py
-│   │   ├── p_gen.py
-│   │   ├── restock.py
-│   │   ├── stock.py
-│   │   └── create_service.py
-│   └── misc/              # Utility commands
-│       ├── ping.py
-│       ├── premium_key.py
-│       └── redeem_key.py
-├── accounts/              # Account storage
-├── resources/             # Bot resources
-│   ├── premium.json
-│   ├── premium_key.txt
-│   └── stats.json
-└── web_auth/              # Web authentication (optional)
-```
+**Contact me on Discord: `gxqk_secours`**
 
-### 🔧 **Adding New Commands**
+I'm here to help you with:
+- ⚙️ Bot configuration and setup
+- 🐛 Troubleshooting issues
+- 💎 Premium access questions
+- 🔧 General support and guidance
 
-1. Create a new file in `commands/misc/` or `commands/generator/`
-2. Follow the existing command structure
-3. Use the provided decorators for access control
-4. The bot will automatically load new commands on restart
-
-### 📝 **Contributing**
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
+Don't hesitate to reach out!
 
 ---
 
