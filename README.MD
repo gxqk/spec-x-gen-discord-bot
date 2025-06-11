@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
-![Discord.py](https://img.shields.io/badge/discord.py-2.3.2+-green.svg)
+![Python](https://img.shields.io/badge/Python-3.xx+-blue.svg)
+![Discord.py](https://img.shields.io/badge/discord.py+-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
