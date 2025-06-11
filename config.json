@@ -1,0 +1,19 @@
+{
+    "token": "YOUR_DISCORD_BOT_TOKEN",
+    "status_type": "streaming",
+    "normal_cooldown": 450,
+    "premium_cooldown": 60,
+    "normal_channel_generation": "CHANNEL_ID",
+    "premium_channel_generation": "CHANNEL_ID",
+    "premium_role": "ROLE_ID",
+    "generate_gif": "GIF_URL",
+    "restock_gif": "GIF_URL",
+    "cooldown_gif": "GIF_URL",
+    "whitelist": ["USER_ID_1", "USER_ID_2"],
+    "whitelist_guilds": ["GUILD_ID_1", "GUILD_ID_2"],
+    "colors": {
+        "success": "0x9b59b6",
+        "error": "0x71368a",
+        "info": "0x8e44ad"
+    }
+}
